@@ -1,4 +1,4 @@
-,Name,IntroductedIn,Type,Power,Acc.,PP,DamageClass,Effect,ProbPercentage
+,Name,IntroductedIn,Type,Power,Acc,PP,DamageClass,Effect,ProbPercentage
 0,Absorb,1,Grass,20.0,100,25.0,Special,User recovers half the HP inflicted on opponent.,
 1,Accelerock,7,Rock,40.0,100,20.0,Physical,User attacks first.,
 2,Acid,1,Poison,40.0,100,30.0,Special,May lower opponent's Special Defense.,10.0
