@@ -1,2 +1,2 @@
 ,Name,AlternativeEffect,Effect,UsageAttributes,SpecificCategory,GeneralCategory,image_url
-833,Yellow Flute,Cures confusion.,A toy flute made from yellow glass. A maniac will buy it for a high price.,['countable', 'consumable', 'usable-in-battle', 'holdable'],Flutes,General items,https://img.pokemondb.net/sprites/items/yellow-flute.png
+"803,White Flute,Doubles the wild Pokémon encounter rate.,A toy flute made from white glass. A maniac will buy it for a high price.,""countable, consumable, usable-overworld, holdable"",Spelunking,General items,https://img.pokemondb.net/sprites/items/white-flute.png"
