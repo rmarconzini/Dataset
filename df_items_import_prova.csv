@@ -1,2 +1,2 @@
-,Name,AlternativeEffect,Effect,UsageAttributes,SpecificCategory,GeneralCategory,image_url
-"806,Wiki Berry,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.,""Restores HP if it's low, but may cause confusion."",holdable-active,Picky Healing,Berries,https://img.pokemondb.net/sprites/items/wiki-berry.png"
+,Name,AlternativeEffect,Effect,UsageAttributes,SpecificCategory,GeneralCategory
+837,Zap Plate,Held: Electric-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Electric.,Increases power of Electric-type moves. Changes Arceus' type to Electric.,holdable; holdable-active; underground,Plates,Hold items
